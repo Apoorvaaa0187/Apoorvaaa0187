@@ -3,10 +3,15 @@
 
 # About Me:
 • Second-year Computer Science student
+
 • Passionate about building meaningful projects & learning by doing
+
 • Interested in Web Development, AI-based applications & system design
+
 • Actively participating in hackathons & coding events
+
 • Currently improving my problem-solving & development skills
+
 • How to reach me: **chaudharyapoorva0187@gmail.com**
 ###
 
